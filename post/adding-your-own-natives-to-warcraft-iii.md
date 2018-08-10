@@ -1,3 +1,5 @@
+> 本文已经被网络上的其他用户翻译过了，暂时不需要翻译。
+
 * 原文：[Adding your own Natives to warcraft III (c/c++)](http://www.wc3c.net/showthread.php?t=84417)
 * 原作者：[PipeDream](http://www.wc3c.net/member.php?u=742043)
 * 摘取时间：2018-8-9 01:40:13 (UTC+8)
